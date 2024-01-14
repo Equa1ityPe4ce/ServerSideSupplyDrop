@@ -1,0 +1,5 @@
+name=ServerSideSupplyDrops
+poster=poster.png
+id=ServerSideSupplyDrops
+description=ServerSideSupplyDrops for project zomboid to be triggered int he console `SupplyDrop [DropType] [X]x[Y]`
+url=http://theindiestone.com/forums/index.php/topic/2011-how-to-use-the-upcoming-modloader/
